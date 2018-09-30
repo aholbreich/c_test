@@ -1,9 +1,11 @@
 # c_test
 C Samples
 
-####test_forks 
-Test of linux process fork() 
+####test_forks
+Test of linux process fork()
 ```
-make test_forks 
+make test_forks
 
 ```
+
+Works with Gitpod!
